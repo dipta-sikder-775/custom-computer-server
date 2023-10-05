@@ -18,7 +18,7 @@
     "src/**/*.ts": "npm run lint-prettier"
   },
   "keywords": [],
-  "author": "Kamrul Islam",
+  "author": "Dipta Sikder",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
