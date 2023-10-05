@@ -1,0 +1,557 @@
+[
+    {
+        "image": "https://i.ibb.co/TRByXym/cpu-1.jpg",
+        "productName": "Intel Core i7-10700K",
+        "category": "CPU / Processor",
+        "price": 329.99,
+        "status": "In Stock",
+        "rating": 4.8,
+        "description": "High-performance desktop processor from Intel.",
+        "keyFeatures": {
+            "brand": "Intel",
+            "model": "Core i7-10700K",
+            "specification": "8 cores, 16 threads, 3.8GHz base clock",
+            "sockettype": "LGA 1200",
+            "tdp": "125W"
+        },
+        "indivisualRating": 4.8,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Excellent processor, runs all my games smoothly."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Great value for the performance."
+            },
+            {
+                "rating": 4,
+                "comment": "Runs a bit hot under load, but still performs well."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/1vxL7BM/cpu-2.jpg",
+        "productName": "AMD Ryzen 9 5900X",
+        "category": "CPU / Processor",
+        "price": 499.99,
+        "status": "In Stock",
+        "rating": 4.9,
+        "description": "Powerful CPU for gaming and content creation.",
+        "keyFeatures": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "specification": "12 cores, 24 threads, 3.7GHz base clock",
+            "sockettype": "AM4",
+            "tdp": "105W"
+        },
+        "indivisualRating": 4.9,
+        "averageRating": 4.9,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Amazing performance, worth every penny."
+            },
+            {
+                "rating": 5,
+                "comment": "Handles multitasking and gaming like a champ."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Slightly expensive, but the performance is top-notch."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/M1C36cb/cpu-3.jpg",
+        "productName": "Intel Core i5-11600K",
+        "category": "CPU / Processor",
+        "price": 269.99,
+        "status": "Out of Stock",
+        "rating": 4.7,
+        "description": "Mid-range processor for gaming and multitasking.",
+        "keyFeatures": {
+            "brand": "Intel",
+            "model": "Core i5-11600K",
+            "specification": "6 cores, 12 threads, 3.9GHz base clock",
+            "sockettype": "LGA 1200",
+            "tdp": "125W"
+        },
+        "indivisualRating": 4.7,
+        "averageRating": 4.7,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Good for gaming, but not the best for heavy workloads."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Solid CPU for the price, but consider a better cooler."
+            },
+            {
+                "rating": 3.5,
+                "comment": "Performance is decent, but I expected more from Intel."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/3c51LQ5/m-1.jpg",
+        "productName": "ASUS ROG Strix B550-F Gaming",
+        "category": "Motherboard",
+        "price": 189.99,
+        "status": "In Stock",
+        "rating": 4.7,
+        "description": "High-performance gaming motherboard from ASUS.",
+        "keyFeatures": {
+            "brand": "ASUS",
+            "model": "ROG Strix B550-F Gaming",
+            "specification": "ATX, AMD B550 chipset, PCIe 4.0 support",
+            "sockettype": "AM4",
+            "ramSlots": "4 DDR4 DIMM slots"
+        },
+        "indivisualRating": 4.7,
+        "averageRating": 4.7,
+        "reviews": [
+            {
+                "rating": 4.5,
+                "comment": "Great motherboard for gaming, lots of features."
+            },
+            {
+                "rating": 4,
+                "comment": "Good build quality, but a bit pricey."
+            },
+            {
+                "rating": 5,
+                "comment": "Easy to overclock and tweak settings."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/26zSCjm/m-2.jpg",
+        "productName": "MSI MPG Z490 Gaming Edge WiFi",
+        "category": "Motherboard",
+        "price": 229.99,
+        "status": "In Stock",
+        "rating": 4.8,
+        "description": "Gaming motherboard with Wi-Fi support from MSI.",
+        "keyFeatures": {
+            "brand": "MSI",
+            "model": "MPG Z490 Gaming Edge WiFi",
+            "specification": "ATX, Intel Z490 chipset, Wi-Fi 6 support",
+            "sockettype": "LGA 1200",
+            "ramSlots": "4 DDR4 DIMM slots"
+        },
+        "indivisualRating": 4.8,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Excellent motherboard for gaming and streaming."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Wi-Fi works flawlessly, but a bit expensive."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Stable performance and good BIOS interface."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/wyVJz4Z/m-3.jpg",
+        "productName": "GIGABYTE B450 AORUS Elite",
+        "category": "Motherboard",
+        "price": 119.99,
+        "status": "Out of Stock",
+        "rating": 4.5,
+        "description": "Budget-friendly gaming motherboard from GIGABYTE.",
+        "keyFeatures": {
+            "brand": "GIGABYTE",
+            "model": "B450 AORUS Elite",
+            "specification": "ATX, AMD B450 chipset, RGB Fusion lighting",
+            "sockettype": "AM4",
+            "ramSlots": "4 DDR4 DIMM slots"
+        },
+        "indivisualRating": 4.5,
+        "averageRating": 4.5,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Good value for a budget gaming PC build."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Decent features for the price, but lacks Wi-Fi."
+            },
+            {
+                "rating": 3.5,
+                "comment": "Not suitable for heavy overclocking, but works well."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/CPTXcr0/r-1.jpg",
+        "productName": "Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz",
+        "category": "RAM",
+        "price": 79.99,
+        "status": "In Stock",
+        "rating": 4.6,
+        "description": "High-quality DDR4 RAM from Corsair for gaming.",
+        "keyFeatures": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX",
+            "specification": "16GB (2 x 8GB), DDR4 3200MHz, CL16",
+            "type": "Unbuffered DIMM"
+        },
+        "indivisualRating": 4.6,
+        "averageRating": 4.6,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Reliable RAM, improved my system's performance."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Good price for the speed and capacity."
+            },
+            {
+                "rating": 4,
+                "comment": "Not the fastest RAM, but it gets the job done."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/YbtnGnC/r-2.jpg",
+        "productName": "Crucial Ballistix 32GB (2 x 16GB) DDR4 3600MHz",
+        "category": "RAM",
+        "price": 149.99,
+        "status": "In Stock",
+        "rating": 4.8,
+        "description": "High-performance DDR4 RAM for enthusiasts.",
+        "keyFeatures": {
+            "brand": "Crucial",
+            "model": "Ballistix",
+            "specification": "32GB (2 x 16GB), DDR4 3600MHz, CL16",
+            "type": "Unbuffered DIMM"
+        },
+        "indivisualRating": 4.8,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Impressive RAM, works great for gaming and video editing."
+            },
+            {
+                "rating": 4.5,
+                "comment": "High-speed RAM at a reasonable price."
+            },
+            {
+                "rating": 5,
+                "comment": "Overclocks well, solid build quality."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/svJ83c2/r-3.jpg",
+        "productName": "Kingston HyperX Fury 8GB DDR4 2666MHz",
+        "category": "RAM",
+        "price": 39.99,
+        "status": "Out of Stock",
+        "rating": 4.4,
+        "description": "Basic DDR4 RAM module from Kingston.",
+        "keyFeatures": {
+            "brand": "Kingston",
+            "model": "HyperX Fury",
+            "specification": "8GB, DDR4 2666MHz, CL16",
+            "type": "Unbuffered DIMM"
+        },
+        "indivisualRating": 4.4,
+        "averageRating": 4.4,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Affordable RAM for basic computing tasks."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Decent performance for the price, no complaints."
+            },
+            {
+                "rating": 3.5,
+                "comment": "Not suitable for gaming or heavy workloads."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/hCsDC0C/p-1.jpg",
+        "productName": "EVGA 750W 80+ Gold Certified Modular PSU",
+        "category": "Power Supply Unit",
+        "price": 99.99,
+        "status": "In Stock",
+        "rating": 4.7,
+        "description": "High-quality power supply unit from EVGA.",
+        "keyFeatures": {
+            "brand": "EVGA",
+            "model": "750W 80+ Gold",
+            "specification": "Modular, 80+ Gold certified, 750W"
+        },
+        "indivisualRating": 4.7,
+        "averageRating": 4.7,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Reliable PSU, stable power delivery."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Modular design helps with cable management."
+            },
+            {
+                "rating": 4,
+                "comment": "Great value for a Gold-rated PSU."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/8jXcChZ/p-2.jpg",
+        "productName": "Corsair RM850x 850W 80+ Gold Certified Fully Modular PSU",
+        "category": "Power Supply Unit",
+        "price": 129.99,
+        "status": "In Stock",
+        "rating": 4.8,
+        "description": "High-efficiency, fully modular power supply from Corsair.",
+        "keyFeatures": {
+            "brand": "Corsair",
+            "model": "RM850x 850W 80+ Gold",
+            "specification": "Fully modular, 80+ Gold certified, 850W"
+        },
+        "indivisualRating": 4.8,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Super quiet PSU with plenty of power."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Efficient and reliable PSU for gaming rigs."
+            },
+            {
+                "rating": 5,
+                "comment": "Corsair quality never disappoints."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/fQZJDML/p-3.jpg",
+        "productName": "Seasonic Focus GX-550 550W 80+ Gold Certified PSU",
+        "category": "Power Supply Unit",
+        "price": 89.99,
+        "status": "Out of Stock",
+        "rating": 4.6,
+        "description": "Compact and efficient power supply from Seasonic.",
+        "keyFeatures": {
+            "brand": "Seasonic",
+            "model": "Focus GX-550 550W 80+ Gold",
+            "specification": "80+ Gold certified, 550W"
+        },
+        "indivisualRating": 4.6,
+        "averageRating": 4.6,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Good PSU for budget builds, but limited wattage."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Reliable performance, but I wish it had more connectors."
+            },
+            {
+                "rating": 3.5,
+                "comment": "Decent PSU, but not the quietest."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/yRzWjcQ/s-1.jpg",
+        "productName": "Samsung 970 EVO 1TB NVMe SSD",
+        "category": "Storage Device",
+        "price": 149.99,
+        "status": "In Stock",
+        "rating": 4.9,
+        "description": "High-speed NVMe SSD from Samsung for blazing-fast storage.",
+        "keyFeatures": {
+            "brand": "Samsung",
+            "model": "970 EVO 1TB",
+            "specification": "1TB, NVMe, M.2 form factor"
+        },
+        "indivisualRating": 4.9,
+        "averageRating": 4.9,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Lightning-fast SSD, great for gaming and productivity."
+            },
+            {
+                "rating": 5,
+                "comment": "Samsung's NVMe drives are the best in the market."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Pricey but worth it for the speed."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/mTGx9hv/s-2.jpg",
+        "productName": "Seagate Barracuda 2TB 7200 RPM HDD",
+        "category": "Storage Device",
+        "price": 69.99,
+        "status": "In Stock",
+        "rating": 4.7,
+        "description": "High-capacity HDD from Seagate for data storage.",
+        "keyFeatures": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "specification": "2TB, 7200 RPM, 3.5-inch"
+        },
+        "indivisualRating": 4.7,
+        "averageRating": 4.7,
+        "reviews": [
+            {
+                "rating": 4.5,
+                "comment": "Affordable and reliable storage solution."
+            },
+            {
+                "rating": 4,
+                "comment": "Good for mass storage, but not as fast as an SSD."
+            },
+            {
+                "rating": 5,
+                "comment": "Seagate drives have never failed me."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/PQ0ZqfD/s-3.jpg",
+        "productName": "Crucial MX500 500GB SATA SSD",
+        "category": "Storage Device",
+        "price": 79.99,
+        "status": "Out of Stock",
+        "rating": 4.6,
+        "description": "SATA SSD with good performance from Crucial.",
+        "keyFeatures": {
+            "brand": "Crucial",
+            "model": "MX500 500GB",
+            "specification": "500GB, SATA III, 2.5-inch"
+        },
+        "indivisualRating": 4.6,
+        "averageRating": 4.6,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Decent SSD for the price, but SATA limits speed."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Reliable drive for everyday use, but consider an NVMe SSD."
+            },
+            {
+                "rating": 3.5,
+                "comment": "Expected faster speeds, but it's an okay SSD."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/5FCyLmt/mo-1.jpg",
+        "productName": "Dell Ultrasharp U2415 24-inch IPS Monitor",
+        "category": "Monitor",
+        "price": 249.99,
+        "status": "In Stock",
+        "rating": 4.8,
+        "description": "High-quality IPS monitor from Dell for professional use.",
+        "keyFeatures": {
+            "brand": "Dell",
+            "model": "U2415",
+            "specification": "24-inch, IPS panel, 1920x1200 resolution"
+        },
+        "indivisualRating": 4.8,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Excellent monitor for photo editing and design work."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Sharp and vibrant display, great for productivity."
+            },
+            {
+                "rating": 4,
+                "comment": "A bit expensive, but the quality justifies it."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/TgZn6ft/mo-2.jpg",
+        "productName": "LG 27GL83A-B 27-inch QHD Gaming Monitor",
+        "category": "Monitor",
+        "price": 379.99,
+        "status": "In Stock",
+        "rating": 4.9,
+        "description": "High-refresh-rate gaming monitor from LG with QHD resolution.",
+        "keyFeatures": {
+            "brand": "LG",
+            "model": "27GL83A-B",
+            "specification": "27-inch, QHD (2560x1440), 144Hz refresh rate, IPS panel"
+        },
+        "indivisualRating": 4.9,
+        "averageRating": 4.9,
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Perfect for gaming, smooth and clear visuals."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Expensive but worth it for gaming enthusiasts."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Excellent colors and fast response time."
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/vzmNKF1/mo-3.jpg",
+        "productName": "Acer R240HY 23.8-inch Full HD IPS Monitor",
+        "category": "Monitor",
+        "price": 129.99,
+        "status": "Out of Stock",
+        "rating": 4.6,
+        "description": "Affordable IPS monitor from Acer for everyday use.",
+        "keyFeatures": {
+            "brand": "Acer",
+            "model": "R240HY",
+            "specification": "23.8-inch, Full HD (1920x1080), IPS panel"
+        },
+        "indivisualRating": 4.6,
+        "averageRating": 4.6,
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Great budget monitor for office tasks and casual use."
+            },
+            {
+                "rating": 4.5,
+                "comment": "Good value, but not suitable for gaming."
+            },
+            {
+                "rating": 3.5,
+                "comment": "Decent display quality, but lacks advanced features."
+            }
+        ]
+    }
+]
